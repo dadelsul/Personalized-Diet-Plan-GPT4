@@ -32,8 +32,3 @@ This project introduces an **AI-powered system** that generates personalized die
 - `gpt4_final.ipynb` → Notebook for preprocessing, training, and evaluation.  
 - `gpt4_final.py` → Streamlit app for interactive diet plan generation.  
 - `README.md` → Project documentation.  
-
----
-
-## 🔗 Demo
-You can run the **Streamlit app** locally with:
